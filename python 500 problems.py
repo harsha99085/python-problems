@@ -88,14 +88,14 @@
 #     print(c)
 
 #10Check if a number is prime
-a=int(input("enter number"))
-count=0
-for b in range(1,a+1):
-    if a%b==0:
-        count=count+1
-if count==2:
-    print("prime")
-else:
-    print("not prime")
+#a=int(input("enter number"))
+#count=0
+#for b in range(1,a+1):
+ #   if a%b==0:
+#        count=count+1
+#if count==2:
+#    print("prime")
+#else:
+ #   print("not prime")
 
 
